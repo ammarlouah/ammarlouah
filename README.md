@@ -60,14 +60,13 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarlouah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammarlouah&show_icons=true&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarlouah&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammarlouah&show_icons=true&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarlouah&layout=pie&theme=tokyonight" alt="Top Languages" />
 </p>
 
 #### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammarlouah&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=S,AAA,AA" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ammarlouah&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
