@@ -6,12 +6,15 @@
 
 ---
 
-### 🧠 About Me  
-- 🚀 Passionate about **Machine Learning, Deep Learning & Web Development**  
-- 🎯 Always exploring new technologies and building cool projects in **Computer Vision, Data Science & Constraint Programming**  
-- 💡 Love to solve **complex problems** using **efficient algorithms**  
-- 📫 Reach me at: **[ammarlouah9@gmail.com](mailto:ammarlouah9@gmail.com)**
-- 🌐 Checkout my website: https://ammarlouah.github.io
+### 🧠 About Me
+- 🚀 Passionate about **Machine Learning, Deep Learning & Web Development**
+- 🎯 Always exploring new technologies and building cool projects in **Computer Vision, Data Science & Constraint Programming**
+- 💡 Love to solve **complex problems** using **efficient algorithms**
+- 📫 Reach me at: [ammarlouah9@gmail.com](mailto:ammarlouah9@gmail.com)
+- 🌐 Check out my work:
+  - **Portfolio:** [ammarlouah.vercel.app](https://ammarlouah.vercel.app)
+  - **Blog:** [ammarlouah.github.io](https://ammarlouah.github.io)
+
 
 ---
 
