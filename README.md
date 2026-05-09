@@ -124,37 +124,41 @@ Production-ready Retrieval-Augmented Generation app for intelligent document que
 
 <div align="center">
 
-#### 🧠 AI / ML / DL
+#### 🧠 ML/DL & RL 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+<br>
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
+<br>
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-#### ☁️ Cloud & RAG
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+#### ☁️ Cloud & AI Engineering
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 🖥 Computer Vision & Data
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-
-#### 🌍 Web & Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+#### 🌍 Web Dev & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white) 
+<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 
@@ -192,10 +196,12 @@ Production-ready Retrieval-Augmented Generation app for intelligent document que
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ammarlouah.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://ammarlouah.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar_Louah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-louah/)
 [![Blog](https://img.shields.io/badge/Blog-ammarlouah.github.io-21759B?style=for-the-badge&logo=jekyll&logoColor=white)](https://ammarlouah.github.io)
-[![YouTube](https://img.shields.io/badge/YouTube-@codeconmigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeconmigo)
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar_Louah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-louah/)
 [![Email](https://img.shields.io/badge/Email-ammarlouah9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarlouah9@gmail.com)
+<br>
+[![YouTube](https://img.shields.io/badge/YouTube-@codeconmigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeconmigo)
 
 </div>
 
