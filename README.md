@@ -36,8 +36,8 @@ class AmmarLouah:
         while alive:
             self.eat()
             self.coffee()
-            # self.sleep()
             self.code()
+            # self.sleep()
 ```
 
 ---
