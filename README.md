@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ammar%20Louah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ammar%20Louah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%26amp%3B%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://ammarlouah.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+RL;RAG+Architectures+%26+Azure+Services;Cybersecurity+Enthusiast;Always+building+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Cybersecurity+Enthusiast;Always+building+something+new." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,9 +25,9 @@
 class AmmarLouah:
     def __init__(self):
         self.name       = "Ammar Louah"
-        self.role       = "AI Engineering & Researcher"
+        self.role       = "AI Engineer & Researcher"
         self.education  = "M.Sc. Advanced Machine Learning & Multimedia Intelligence"
-        self.interests  = ["Deep Learning", "Computer Vision", "RL", "AI Engineering", "Cybersecurity"]
+        self.interests  = ["Data Science", "AI Engineering", "Cybersecurity"]
         self.blog       = "https://ammarlouah.github.io"
         self.portfolio  = "https://ammarlouah.vercel.app"
         self.contact    = "ammarlouah9@gmail.com"
@@ -48,7 +48,7 @@ class AmmarLouah:
 <tr>
 <td width="50%" valign="top">
 
-### 🦠 Dynamic Malware Analysis — AI Agent + RL
+### 🦠 Dynamic Malware Analysis — RL AI Agent
 > *PyTorch · Dueling DQN · CAPEv2 Sandbox*
 
 Trained an RL agent on a custom MDP (35-dim state, 7 actions) to autonomously investigate malware samples inside a sandboxed environment.  
@@ -124,7 +124,7 @@ Production-ready Retrieval-Augmented Generation app for intelligent document que
 
 <div align="center">
 
-#### 🧠 ML/DL & RL 
+#### 🧠 Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 <br>
@@ -138,7 +138,6 @@ Production-ready Retrieval-Augmented Generation app for intelligent document que
 ![Azure](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 <br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🌍 Web Dev & Backend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -150,6 +149,8 @@ Production-ready Retrieval-Augmented Generation app for intelligent document que
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<br>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
